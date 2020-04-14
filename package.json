@@ -1,0 +1,26 @@
+{
+  "name": "watermark-dom-rzt",
+  "version": "1.0.0",
+  "description": "watermark-dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crui318/watermark-dom-rzt.git"
+  },
+  "keywords": [
+    "watermark",
+    "watermark-dom",
+    "watermark-dom-rzt",
+    "rzt",
+    "crui318"
+  ],
+  "author": "crui318",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crui318/watermark-dom-rzt/issues"
+  },
+  "homepage": "https://github.com/crui318/watermark-dom-rzt#readme"
+}
